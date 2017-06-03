@@ -10,6 +10,7 @@
       "es2015"
     ],
     "module": "commonjs",
+    "isolatedModules": false,
     "moduleResolution": "node",
     "sourceMap": true,
     "target": "es5",
